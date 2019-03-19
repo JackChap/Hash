@@ -12,7 +12,7 @@ namespace hashTest
             string originalData = Console.ReadLine();
             Console.WriteLine("Please enter something else: ");
             string newData = Console.ReadLine();
-            Console.Clear();
+            // Console.Clear();
 
             Console.WriteLine("Original data  : {0}", originalData);
             Console.WriteLine("New data        : {0}", newData);
